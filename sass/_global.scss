@@ -1,0 +1,32 @@
+$prycolor: #B66215;
+@mixin h1font {
+    font-family:"poppins";
+    font-size: 30px;
+    font-style: italic;
+}
+
+@mixin nav {
+    font-family: "poppins";
+    font-size: 24px;
+    font-style: "regular";
+    
+}
+@mixin text {
+   
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+    
+}
+@mixin text1 {
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 4000;
+font-size: 4000px;
+line-height: 60px;
+}
+

@@ -1,0 +1,111 @@
+@use 'global' as *;
+
+.letstalk{
+    background-color: $prycolor;
+    margin-top: 55px;
+}
+.prof{
+     color: $prycolor;
+     @include h1font
+    
+}
+
+.create{
+    background-image: url(../image.png);
+    height: 610px;
+}
+.create1 {
+    color: $prycolor;
+    margin-left: 750px;
+    @include h1font
+    
+    
+}
+.image{
+    width: 428px;
+    border-radius:64px;
+
+}
+.vincent{
+    color: $prycolor;
+}
+.text11{
+    @include 
+}
+.frontend{
+    color: white;
+    margin-top: 40px;
+    @include text
+    
+}
+.create3{
+    position: absolute;
+width: 390px;
+height: 174px;
+left: 400px;
+top: 106px;
+}
+.image2{
+    position: absolute;
+width: 428px;
+height: 384px;
+left: 904px;
+top: 106px;
+}
+.hireme{
+    background-color: $prycolor;
+    margin-top: 100px;
+}
+
+.navs{
+    position: absolute;
+width: 176px;
+height: 451px;
+left: 60px;
+top: 105px;
+line-height: 70px;
+}
+
+// for the services
+.cardsub {
+    color: $prycolor;
+    @include text1
+}
+.hrline {
+    width: 300px;
+    color: $prycolor;
+}
+.servicerow {
+    background-color: black;
+}
+// For about
+.service {
+   color: $prycolor;
+}
+.about{
+    color: $prycolor;
+}
+    // for contact
+.contactbgcolor {
+    background-color: $prycolor;
+}
+.contactimg{
+    height: 200px;
+    
+}
+.concol {
+    height: 400px;
+    width: 400px;
+}
+.contactbutton {
+    background-color: black;
+    color: wheat;
+}
+.w {
+    // position: absolute;
+width: 390px;
+height: 100px;
+
+
+}
+    

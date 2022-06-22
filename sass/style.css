@@ -1,0 +1,131 @@
+.letstalk {
+  background-color: #B66215;
+  margin-top: 55px;
+}
+
+.prof {
+  color: #B66215;
+  font-family: "poppins";
+  font-size: 32px;
+  font-style: italic;
+}
+
+.create {
+  background-image: url(../image.png);
+  height: 610px;
+}
+
+.create1 {
+  color: #B66215;
+  margin-left: 750px;
+  font-family: "poppins";
+  font-size: 32px;
+  font-style: italic;
+}
+
+.image {
+  width: 428px;
+  border-radius: 64px;
+}
+
+.vincent {
+  color: #B66215;
+}
+
+.text11 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.frontend {
+  color: white;
+  margin-top: 40px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.create3 {
+  position: absolute;
+  width: 390px;
+  height: 174px;
+  left: 400px;
+  top: 106px;
+}
+
+.image2 {
+  position: absolute;
+  width: 428px;
+  height: 384px;
+  left: 904px;
+  top: 106px;
+}
+
+.hireme {
+  background-color: #B66215;
+  margin-top: 100px;
+}
+
+.navs {
+  position: absolute;
+  width: 176px;
+  height: 451px;
+  left: 60px;
+  top: 105px;
+  line-height: 70px;
+}
+
+.cardsub {
+  color: #B66215;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.hrline {
+  width: 300px;
+  color: #B66215;
+}
+
+.servicerow {
+  background-color: black;
+}
+
+.service {
+  color: #B66215;
+}
+
+.about {
+  color: #B66215;
+}
+
+.contactbgcolor {
+  background-color: #B66215;
+}
+
+.contactimg {
+  height: 200px;
+}
+
+.concol {
+  height: 400px;
+  width: 400px;
+}
+
+.contactbutton {
+  background-color: black;
+  color: wheat;
+}
+
+.w {
+  width: 390px;
+  height: 100px;
+}
+/*# sourceMappingURL=style.css.map */
